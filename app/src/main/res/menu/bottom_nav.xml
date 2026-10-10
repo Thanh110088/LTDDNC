@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@drawable/ic_nav_home"
+        android:title="Trang chủ" />
+    <item
+        android:id="@+id/nav_exercise"
+        android:icon="@drawable/ic_nav_exercise"
+        android:title="Bài tập" />
+    <item
+        android:id="@+id/nav_workout"
+        android:icon="@drawable/ic_nav_workout"
+        android:title="Tập luyện" />
+    <item
+        android:id="@+id/nav_profile"
+        android:icon="@drawable/ic_nav_profile"
+        android:title="Hồ sơ" />
+    <item
+        android:id="@+id/nav_admin"
+        android:icon="@drawable/ic_nav_admin"
+        android:title="Quản trị" />
+</menu>

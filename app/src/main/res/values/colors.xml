@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Nền sáng, thẻ trắng, chữ than chì, điểm nhấn xanh lá nhạt. -->
+    <color name="bg">#F5FAFE</color>
+    <color name="white">#FFFFFF</color>
+    <color name="primary">#18A56A</color>
+    <color name="primary_dark">#0E7A4B</color>
+    <color name="primary_soft">#E5F7EE</color>
+    <color name="text_primary">#1A2430</color>
+    <color name="text_secondary">#5C7080</color>
+    <color name="stroke">#E3EEF6</color>
+    <color name="pill_muted">#EEF3F7</color>
+    <color name="orange">#F08A24</color>
+    <color name="text_error">#C4473A</color>
+</resources>
